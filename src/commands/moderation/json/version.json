@@ -1,0 +1,132 @@
+{
+    "version": "1.2.3",
+    "changelog": [
+        {
+            "date": "2024-05-21T13:16:16.454Z",
+            "command": "Bugs",
+            "action": "Hinzufügung",
+            "updates": "sa"
+        },
+        {
+            "date": "2024-05-21T13:16:29.238Z",
+            "command": "Bugs",
+            "action": "Hinzufügung",
+            "updates": "sa"
+        },
+        {
+            "date": "2024-05-21T14:02:36.036Z",
+            "command": "Ping",
+            "action": "Änderung",
+            "updates": "Test"
+        },
+        {
+            "date": "2024-05-22T15:21:41.137Z",
+            "command": "Giveaway",
+            "action": "Änderung",
+            "updates": "sad"
+        },
+        {
+            "date": "2024-05-22T20:52:29.369Z",
+            "command": "Play",
+            "action": "Hinzufügung",
+            "updates": "Musik Wurde Jetzt Hinzugefügt"
+        },
+        {
+            "date": "2024-05-22T20:52:50.820Z",
+            "command": "Bot",
+            "updates": "Meetoomusik Wurde Entfernt"
+        },
+        {
+            "date": "2024-05-22T20:55:27.640Z",
+            "command": null,
+            "updates": null
+        },
+        {
+            "date": "2024-05-22T20:58:40.845Z",
+            "command": "Bot",
+            "updates": "test"
+        },
+        {
+            "date": "2024-05-22T21:00:23.416Z",
+            "command": "Bot",
+            "updates": "test"
+        },
+        {
+            "date": "2024-05-22T21:02:34.834Z",
+            "command": "Giveaway",
+            "action": "Änderung",
+            "updates": "test"
+        },
+        {
+            "date": "2024-05-22T21:02:45.062Z",
+            "command": "Giveaway",
+            "action": "Hinzufügung",
+            "updates": "test"
+        },
+        {
+            "date": "2024-05-22T21:02:52.984Z",
+            "command": "Giveaway",
+            "updates": "test"
+        },
+        {
+            "date": "2024-05-22T21:03:30.098Z",
+            "command": "Giveaway",
+            "action": "Entfernt",
+            "updates": "test"
+        },
+        {
+            "date": "2024-05-25T13:02:50.771Z",
+            "command": "Giveaway",
+            "action": "Änderung",
+            "updates": "Test"
+        },
+        {
+            "date": "2024-05-25T13:04:40.712Z",
+            "command": "Giveaway",
+            "action": "Änderung",
+            "updates": "test"
+        },
+        {
+            "date": "2024-05-25T13:14:28.753Z",
+            "command": "Giveaway",
+            "action": "Änderung",
+            "updates": "test"
+        },
+        {
+            "date": "2024-05-25T16:19:00.327Z",
+            "command": "Giveaway",
+            "action": "Hinzufügung",
+            "updates": "test"
+        },
+        {
+            "date": "2024-05-25T16:21:40.371Z",
+            "command": "Giveaway",
+            "action": "Änderung",
+            "updates": "test"
+        },
+        {
+            "date": "2024-05-25T16:22:22.151Z",
+            "command": "Giveaway",
+            "action": "Änderung",
+            "updates": "test"
+        },
+        {
+            "date": "2024-05-25T16:24:19.359Z",
+            "command": "Giveaway",
+            "action": "Änderung",
+            "updates": "test"
+        },
+        {
+            "date": "2024-05-25T16:24:19.361Z",
+            "command": "Giveaway",
+            "action": "Änderung",
+            "updates": "test"
+        },
+        {
+            "date": "2024-05-25T16:26:19.048Z",
+            "command": "Giveaway",
+            "action": "Hinzufügung",
+            "updates": "test"
+        }
+    ]
+}

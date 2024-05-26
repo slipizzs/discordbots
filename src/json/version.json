@@ -1,0 +1,15 @@
+{
+    "version": "1.0.0",
+    "changelog": [
+        {
+            "date": "2024-05-21T12:58:06.474Z",
+            "updates": "Umfragen command"
+        },
+        {
+            "date": "2024-05-21T13:05:58.827Z",
+            "command": "umfrage",
+            "action": "Änderung",
+            "updates": "Es Wurde zeit hinzugefügt und bugs wurden entfernt"
+        }
+    ]
+}
